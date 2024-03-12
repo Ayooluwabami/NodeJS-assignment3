@@ -1,0 +1,24 @@
+{
+  "name": "third-assignment",
+  "version": "1.0.0",
+  "description": "nodeJS assignment-3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayooluwabami/NodeJS-assignment3.git"
+  },
+  "keywords": [],
+  "author": "Ayobami",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Ayooluwabami/NodeJS-assignment3/issues"
+  },
+  "homepage": "https://github.com/Ayooluwabami/NodeJS-assignment3#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
